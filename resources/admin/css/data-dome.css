@@ -1,0 +1,40 @@
+#detect-msg, #invalid-key, #invalid-js-key {
+	color: #ff0000;
+}
+
+#dd-nag {
+	background-color: #F8F8F8;
+	border: #F8F8F8;
+	padding: 5px;
+}
+
+#dd-nag .dd-nag-button {
+	background-color: #AAD75B;
+	color: #ffffff;
+	text-transform: uppercase;
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 2px;
+	font-weight: bold;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+
+#dd-nag .dd-nag-msg {
+	color: #7F7F7F;
+	vertical-align: middle;
+	font-weight: bold;
+	text-indent: 50px;
+}
+
+#dd-nag .dd-nag-message div {
+	display: inline-block;
+}
+
+#dd-nag h2 {}
+
+#dd-nag a, #dd-nag a:visited {
+	text-decoration: none;
+}
